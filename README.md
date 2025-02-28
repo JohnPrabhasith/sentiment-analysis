@@ -4,7 +4,7 @@
 This project implements a sentiment analysis model for restaurant food reviews using the RandomForest algorithm. The model analyzes customer reviews to classify sentiments as positive or negative providing valuable insights for restaurant businesses.
 
 ## Features
-- Sentiment classification (Positive, Negative, Neutral)
+- Sentiment classification (Positive, Negative)
 - Preprocessing of text data (tokenization, stopword removal, vectorization)
 - Implementation using the RandomForest algorithm
 - Performance evaluation with accuracy metrics
